@@ -21,7 +21,7 @@ This work is supported by the **Institute of Information & communications Techno
 
 - **`memory_profiling.py`**: A script for profiling GPU memory usage during training.
 - **`sampler.py`**: Contains implementations of various sampling strategies for GNN training.
-- **`model`**: Houses the implementations of the MQ-GNN module.
+- **`model`**: Contains GNN models.
 - **`MQ-GNN.py`**: Contains the implementation of the MQ-GNN module.
 - **`SoTA_default.py`**: Scripts for running baseline models against the MQ-GNN for evaluation.
 
