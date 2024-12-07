@@ -4,7 +4,7 @@
 
 This repository is part of the **Graph Database Management System (GDBMS)** project. It contains the implementation of the **MQ-GNN module**, which is designed for efficient processing of graph data.
 
-The complete project code, including the final MQ-GNN implementation, will be released following the evaluation of the GDBMS project. Currently, this repository is private ([dke-lab/dgll](https://github.com/dke-lab/dgll)) but will be made public after the evaluation is completed. For reference, here are the repositories showcasing early development of the project:
+The complete project code, including the final MQ-GNN implementation, will be soon released following the evaluation of the GDBMS project. Currently, this repository is private ([dke-lab/dgll](https://github.com/dke-lab/dgll)) but will be made public after the evaluation is completed. For reference, here are the repositories showcasing early development of the project:
 
 - [GDLL 2023](https://github.com/ahj6377/GDLL2023)  
 - [DGLL 2022](https://github.com/dke-lab/DGLL-2022)  
